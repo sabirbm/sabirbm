@@ -1,6 +1,6 @@
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Sabir! 👋
 
-- 🌱 I’m currently doing **DevOps** and **SRE**
+- 🌱 I’m currently doing **FullStack** and **PEGA**
 - 👨‍💻 All of my projects are available at **[here][github]** or **[adityacprtm.dev][website]**
 - 📝 I regulary write articles on **[my blog][blog]**
 - 📫 How to reach me **aditya@adityacprtm.dev**
@@ -9,7 +9,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
+[![Website](https://sabirbm.github.io/SabirWeb/)][website]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
