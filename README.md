@@ -1,7 +1,7 @@
 # Hi there, I'm Sabir! 👋
 
 - 🌱 I’m currently doing **FullStack** and **PEGA**
-- 👨‍💻 All of my projects are available at **[here](https://sabirbm.github.io/SabirWeb/)** or **[adityacprtm.dev][website]**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/sabirbm)** or **[adityacprtm.dev](https://sabirbm.github.io/SabirWeb/)**
 - 📝 I regularly write articles on **[my blog][blog]**
 - 📫 How to reach me **aditya@adityacprtm.dev**
 - 👻 **npx** adityacprtm
