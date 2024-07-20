@@ -8,7 +8,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/badge/any_text-you_like-blue)](https://sabirbm.github.io/SabirWeb/)
+[![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)](https://sabirbm.github.io/SabirWeb/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/sabirraza___q/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabirraza___q/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-badami/)
