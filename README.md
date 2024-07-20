@@ -34,7 +34,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Imgur](https://i.imgur.com/SC6Rt8F.jpg)
+** GO Back**
 
 </details>
 
