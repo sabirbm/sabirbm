@@ -8,7 +8,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)](https://sabirbm.github.io/SabirWeb/)
+[![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/sabirraza___q/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabirraza___q/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-badami/)
@@ -99,21 +99,11 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 ```
 
 
-## Last Updated
-
-![Date and Time](https://raw.githubusercontent.com/sabirbm/main/date-time.txt)
-
 
  Last Updated on 19/07/2024 18:06:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
 
-[website]: https://adityacprtm.dev
-[blog]: https://adityacprtm.dev/blog
-[twitter]: https://twitter.com/adityacprtm
-[steam]: https://steamcommunity.com/id/adityacprtm
-[instagram]: https://instagram.com/adityacprtm
-[linkedin]: https://linkedin.com/in/adityacprtm
-[facebook]: https://www.facebook.com/adityacprtm
-[github]: https://github.com/Adityacprtm
+[website]: https://adityacprtm.dev](https://sabirbm.github.io/SabirWeb/
+
