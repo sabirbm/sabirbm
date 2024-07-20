@@ -5,6 +5,10 @@
 - 📝 I regularly write articles on **[my blog][website]**
 - 📫 How to reach me **[Sabir.Dev]**
 - ⚡ Fun fact **Gym Holic** 💘
+- ## Contact Me
+
+[Send an Email](mailto:sabirbadami2000@gmail.com)
+
 
 ## 😎 Connect with me
 
