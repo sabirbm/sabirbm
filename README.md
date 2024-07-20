@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing **FullStack** and **PEGA**
 - 👨‍💻 All of my projects are available at **[here][website]** or **[Sabir.Git](https://sabirbm.github.io/SabirWeb/)**
 - 📝 I regularly write articles on **[my blog][website]**
-- 📫 How to reach me **Sabir.Dev[email]**
+- 📫 How to reach me **[Sabir.Dev]**
 - ⚡ Fun fact **Gym Holic** 💘
 
 ## 😎 Connect with me
@@ -111,6 +111,6 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 [Linkedin]:https://www.linkedin.com/in/sabir-badami/
 [facebook]: https://www.facebook.com/sabir.badami.5
 [github]:https://github.com/sabirbm
-[email]: sabirbadami2000@gmail.com
+[Sabir.Dev]: sabirbadami2000@gmail.com
 
 
