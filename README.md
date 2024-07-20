@@ -2,14 +2,13 @@
 
 - 🌱 I’m currently doing **FullStack** and **PEGA**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/sabirbm)** or **[adityacprtm.dev](https://sabirbm.github.io/SabirWeb/)**
-- 📝 I regularly write articles on **[my blog][blog]**
-- 📫 How to reach me **aditya@adityacprtm.dev**
-- 👻 **npx** adityacprtm
+- 📝 I regularly write articles on **[my blog](https://github.com/sabirbm)**
+- 📫 How to reach me **Sabirbadami2000@gmail.com**
 - ⚡ Fun fact **Gym Holic** 💘
 
 ## 😎 Connect with me
 
-[![alt-text](img-url)](URL)
+[![Web](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/sabirbm)
 ![Static Badge](https://img.shields.io/badge/redrose--black-boy?link=https%3A%2F%2Fsabirbm.github.io%2FSabirWeb%2F)
 
 [![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https://sabirbm.github.io/SabirWeb/)]
