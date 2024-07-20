@@ -9,10 +9,10 @@
 ## 😎 Connect with me
 
 [![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/sabirraza___q/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabirraza___q/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-badami/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabir.badami.5)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 
 ## 👨‍💻 Technologies and Tools
 
@@ -106,4 +106,10 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 </details>
 
 [website]: https://sabirbm.github.io/SabirWeb/
+[twitter]: https://www.instagram.com/sabirraza___q/
+[Instagram]:https://www.instagram.com/sabirraza___q/
+[Linkedin]:https://www.linkedin.com/in/sabir-badami/
+[facebook]: https://www.facebook.com/sabir.badami.5
+[github]:https://github.com/sabirbm
+
 
