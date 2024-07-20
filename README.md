@@ -1,9 +1,9 @@
 # Hi there, I'm Sabir! 👋
 
 - 🌱 I’m currently doing **FullStack** and **PEGA**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/sabirbm)** or **[adityacprtm.dev](https://sabirbm.github.io/SabirWeb/)**
+- 👨‍💻 All of my projects are available at **[here][website]** or **[Sabir.Git](https://sabirbm.github.io/SabirWeb/)**
 - 📝 I regularly write articles on **[my blog][website]**
-- 📫 How to reach me **Sabir.Dev**[email]
+- 📫 How to reach me **Sabir.Dev[email]**
 - ⚡ Fun fact **Gym Holic** 💘
 
 ## 😎 Connect with me
