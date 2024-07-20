@@ -9,7 +9,6 @@
 ## 😎 Connect with me
 
 [![Web](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/sabirbm)
-[![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https://sabirbm.github.io/SabirWeb/)]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
