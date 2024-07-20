@@ -43,23 +43,13 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
+![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=sabirbm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Sabir's github stats")
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C960%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 539.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
+ 
 **I'm an Early 🐤** 
 
 ```text
@@ -85,7 +75,7 @@ Sunday                   4414 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.80 % 
+Java                     2 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.80 % 
 Terraform                1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
@@ -98,13 +88,13 @@ VS Code                  4 hrs 28 mins       ███████████�
 Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Java** 
 
 ```text
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Go                       15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HCL                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Java                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+C                        15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+PEGA                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
