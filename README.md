@@ -105,5 +105,5 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 </details>
 
-[website]: https://adityacprtm.dev](https://sabirbm.github.io/SabirWeb/
+[website]: https://sabirbm.github.io/SabirWeb/
 
