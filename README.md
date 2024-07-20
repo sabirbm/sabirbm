@@ -9,8 +9,6 @@
 ## 😎 Connect with me
 
 [![Web](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/sabirbm)
-![Static Badge](https://img.shields.io/badge/redrose--black-boy?link=https%3A%2F%2Fsabirbm.github.io%2FSabirWeb%2F)
-
 [![Website](https://img.shields.io/website?label=Sabir.dev&style=for-the-badge&url=https://sabirbm.github.io/SabirWeb/)]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
